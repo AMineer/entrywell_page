@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://entrywell.app/sitemap.xml
